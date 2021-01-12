@@ -1,0 +1,21 @@
+.panda-card{
+border: 0;
+}
+.panda-card-footer{
+  background-color: aliceblue;
+  border: 0;
+}
+.categories img{
+width: 100px;
+}
+.panda-slide{
+  background-color: rgba(240, 128, 128, 0.288);
+  border-radius: 2em;
+}
+.btn btn-warning button{
+  background-color: lightcoral;
+}
+#Subscribe{
+  background-color: rgba(240, 128, 128, 0.288);
+  border-radius: 2em;
+}
